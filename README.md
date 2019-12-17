@@ -1,5 +1,5 @@
 # no-gradient-predictions
-This repository ensures predictions published by [no gradient](https://nogradient.com/2019/11/26/predictions-scorecard/) are stored as part of the [GitHub Archive Program](https://archiveprogram.github.com/).
+This repository ensures predictions published by [no gradient](https://nogradient.com/2019/11/26/predictions-scorecard/) are stored as part of the [GitHub Archive Program](https://archiveprogram.github.com/) and also provides a history of provenance proofs using the Bitcoin blockchain.
 
 File | SHA256 Hash | Proof of Existence | Bitcoin Transaction
 --- | --- | --- | ---
