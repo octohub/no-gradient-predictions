@@ -7,6 +7,6 @@ File | SHA256 Hash | Proof of Existence | Bitcoin Transaction
 
 ### How to Verify Provenance
 1. Download the predictions text file.
-2. Calculate the SHA256 hash of the file. This can easily be done by uploading the file [here](https://md5file.com/calculator) or [https://emn178.github.io/online-tools/sha256_checksum.html](https://md5file.com/calculator).
+2. Calculate the SHA256 hash of the file. This can easily be done by uploading the file [here](https://md5file.com/calculator) or [here](https://emn178.github.io/online-tools/sha256_checksum.html).
 3. Upload the file to [Proof of Existence](https://proofofexistence.com/) and verify it has successfully been notarized.
 4. View the Bitcoin transaction on [blockchain.com](https://www.blockchain.com/). Verify the hash of the file is embedded in the OP_RETURN value.
