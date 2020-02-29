@@ -5,7 +5,6 @@ File | SHA256 Hash | Proof of Existence | Bitcoin Transaction
 --- | --- | --- | ---
 [no-gradient-predictions.txt](https://github.com/octohub/no-gradient-predictions/blob/master/no-gradient-predictions.txt) | 089e6c5b0eec34984e4f48f9890fb198f5bf6719c526a22e2d685867ab18800b | [089e6...](https://proofofexistence.com/detail/089e6c5b0eec34984e4f48f9890fb198f5bf6719c526a22e2d685867ab18800b) | [1b711fecad99896de3f6ecfa6bad51fb81f8e8f74da5e1567bcfa6c61720425e](https://www.blockchain.com/btc/tx/1b711fecad99896de3f6ecfa6bad51fb81f8e8f74da5e1567bcfa6c61720425e)
 [no-gradient-predictions-1.txt](https://github.com/octohub/no-gradient-predictions/blob/master/no-gradient-predictions-1.txt) | 53781be7da5d3f2a1f990a3627836f589c1e9264d405c1b8e85670ce0dd231a8 | [53781...](https://proofofexistence.com/detail/53781be7da5d3f2a1f990a3627836f589c1e9264d405c1b8e85670ce0dd231a8) | [5a29d5ec1911f98c5618b36702c0d2befc4f3bb15272ffeb16e8abd61905d94f](https://www.blockchain.com/btc/tx/5a29d5ec1911f98c5618b36702c0d2befc4f3bb15272ffeb16e8abd61905d94f)
-
 [no-gradient-predictions-2.txt](https://github.com/octohub/no-gradient-predictions/blob/master/no-gradient-predictions-2.txt) | 1f9ec4594d143bb0344b39ce44c4f9914c38929dd4fe2eb2d48b3b306a4ef0e0 | [53781...](https://proofofexistence.com/detail/53781be7da5d3f2a1f990a3627836f589c1e9264d405c1b8e85670ce0dd231a8) | [5a29d5ec1911f98c5618b36702c0d2befc4f3bb15272ffeb16e8abd61905d94f](https://www.blockchain.com/btc/tx/5a29d5ec1911f98c5618b36702c0d2befc4f3bb15272ffeb16e8abd61905d94f)
 
 ### How to Verify Provenance
