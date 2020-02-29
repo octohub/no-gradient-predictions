@@ -1,0 +1,180 @@
+1. Periscope is going to be huge. Streaming of protests, sports events, disasters etc. Making tv networks even more redundant.
+
+2. The Nexus program will end in 2018.
+ 
+3. Google will release the first Pixel phone in 2017.
+
+4. By 2019 the Facebook Messenger platform will be huge, absorbing what would normally be stand alone apps.
+ 
+5. In 2019 Google built Android devices will be the most prevalent in developed nations.
+ 
+6. Google will leave the low end Android device market to other manufacturers.
+
+7. Netflix will allow creators to upload directly like YouTube. It will be invite only and the content will be screened.
+
+8. The Android Q rollout will prove the update problem for Android has been fixed, especially on high end devices.
+
+9. When level 5 driving automation is ubiquitous, the likes of Avis and Hertz will not exist.
+
+10. Spotify will either undergo a major shift away from their commodity streaming service or they will perish.
+
+11. Google will release a Pixel device with Google designed silicon in 2019.
+
+12. Google will release the Pixel phone through all major US carriers in 2018.
+
+13. Google will release an Android Wear watch in 2018.
+
+14. By 2023, Firebase will allow a “non developer” to build a sufficiently simple app. This includes backend and UI.
+
+15. By 2021, Firebase will allow easy integration with services that provide data about the world e.g. news, weather, stock prices, etc.
+
+16. The “sufficiently simple app” Firebase will allow users to build will be cross platform using the Flutter SDK under the hood.
+
+17. Google will release a Pixel device with a Google designed SoC in 2019.
+
+18. By 2021 there will be a product used by millions of people built almost entirely on Firebase.
+
+19. Razer will release one more iteration of the Razer Phone then stop making them all together.
+
+20. By 2022 Google will release a product for managing users’ passwords, similar to Lastpass and 1Password. It will have 2FA and other advanced security measures built in.
+
+21. In the Pixel 3 phone, Google will release a Face ID equivalent that utilizes less specialized hardware than the iPhone X, but makes up for it in software. Similar to Portrait mode now.
+
+22. Spotify will be acquired by 2028.
+
+23. Like Amazon Prime, other large tech companies will release all encompassing subscription plans for their products and services. E.g. Pay Apple $1k a year for a phone upgrade every year, a computer upgrade every two years, Apple Music included, etc.
+
+24. By 2050, grocers like Walmart and Amazon will differentiate by growing proprietary produce. Think special versions of an orange or even completely new species of plants.
+ 
+25. When level 5 autonomous vehicles are prevalent, a large portion of the value of high value real estate (downtown, great location, etc.) will be transferred to what is now considered low value real estate (suburbia, outskirts, etc.).
+
+26. Next global economic downturn there will be a boon in cryptocurrency market capitalization as people convert their fiat to crypto.
+
+27. By 2030 wireless will usurp hard line (cables in the ground and on telephone poles) as the main way Americans receive internet in their home. Your modem will be connected to a wireless carrier rather than a cable coming into your house.
+
+28. By 2025 there will be a large scale attack carried out on a cryptocurrency that compromises the consensus of that specific blockchain, stealing over 100 million dollars.
+
+29. When the minimum amount of Ether to put at stake in the PoS consensus mechanism is announced, the price of Ether will jump as people attempt to hit that minimum amount.
+
+30. In Android P, the UI to indicate battery saver mode will be replaced with something less garish.
+ 
+31. Tom Cruise will finally grow tired of printing out safe action movies (Knight and Day, Jack Reacher, etc.) and return to his days of Vanilla Sky, Magnolia, Tropic Thunder, while also embracing his older age. I believe in you Cruise.
+
+32. By 2025 Coinbase will release a point of sale product allowing businesses to accept cryptocurrencies.
+
+33. By 2025 Coinbase will release public APIs for businesses to accept cryptocurrencies as payment online.
+
+34. By 2021 Amazon through Amazon Basics will release a mobile phone.
+
+35. By 2022 Amazon through Amazon Basics will release a computer monitor.
+
+36. By 2023 Amazon through Amazon Basics will release a TV.
+
+37. By 2050 nations around the world, including the United States, will implement systems similar to China’s Great Firewall to increase national security, as our lives and warfare increasingly become digital.
+
+38. By 2022, Google will release a router with voice activated Google Assistant built in.
+
+39. By 2022, Amazon will release a router with voice activated Alexa built in.
+
+40. By 2070 domain names will be relegated to collectible items- bought, sold, and traded like pieces of art.
+
+41. By 2030 there will be a dominant social network built around user location. Facebook, Snapchat, and Twitter use location, but have it bolted on the side. And dating apps are too use case specific. Location is too powerful to not take center stage in a social network.
+
+42. By 2030, a major financial services company like Vanguard or Charles Schwab will offer ETFs with an expense ratio of 0.00%.
+
+43. By 2030 there will be a financial services company offering a fully managed investment solution (e.g. saving for retirement, portfolio diversification) that charges no fees.
+
+44. This attack will cause at least one top five GDP country to pass overbearing preventative legislation.
+
+45. By 2050 terrorists will facilitate an attack using technology from a large cloud services company e.g. Amazon, Cloudflare, Google, IBM, Microsoft.
+
+46. The following are my predictions for the one year adoption rate of future Android versions (+/- 2.5%):
+Android Oreo, 9%
+
+47. Android P, 15%
+
+48. Android Q, 19%
+
+49. Android R, 22%
+
+50. Android S, 24%
+
+51. Android T, 25%
+
+52. Android U, 25%
+
+53. By 2040 bag and body scanners at airports will use machine learning to detect banned items, requiring intervention from security personnel only on an ad hoc basis.
+
+54. By 2035 assets under management of the top three Old Guard firms compared to the top three New Guard firms will decrease from 570 times as big to less than 50 times as big.
+
+55. By 2035 the term “robo-advisor” will have peaked and will be on it’s decent for the same reason we don’t hear people say “color TV” anymore. Algorithmic, passive investing will be the standard for individuals.
+
+56. By 2030 a top three robo-advisor will start, at least in part, to manage your portfolio directly, instead of relying on Old Guard investment vehicles like Vanguard ETFs.
+
+57. By 2030 the top three robo-advisors will collectively have >1 trillion assets under management. A 4100% increase over the current 24.9 billion.
+
+58. By 2025 the top three robo-advisors will collectively have >250 billion assets under management. A 1000% increase over the current 24.9 billion.
+
+59. By 2025 a top three robo-advisor will offer credit monitoring services similar to credit karma.
+ 
+60. By 2025 a top three robo-advisor will offer a credit card.
+
+61. By 2025 a top three robo-advisor will offer a checking account.
+
+62. From June 8 2018 to June 8 2028, Vanguard’s S&P 500 Fund (VFIAX) will outperform a portfolio split evenly between: Firsthand Technology Opportunities Fund (TEFQX), Oppenheimer Global Opportunities (OGIYX), Fidelity Select Biotech (FBIOX), and Delaware Healthcare (DLHIX).
+
+63. Donald Trump will be reelected, winning the 59th U.S. presidential election in 2020.
+
+64. By 2030 Sonos will either have gotten acquired for less than $1.5B or will have filed for bankruptcy.
+
+65. Google’s Wear OS watch will have a custom Google built SoC.
+
+66. Google will release a Wear OS watch before 2022.
+
+67. Before 2070 extraterrestrial life will be discovered.
+
+68. Before 2025 Google will offer a free Google One subscription with the purchase of a Google hardware device (e.g. Pixel phone).
+
+69. Tim Berners-Lee’s Solid and Inrupt projects will not reach meaningful adoption before 2030.
+
+70. Before 2030 there will be cryptocurrency coins that track specific stock market indexes e.g. S&P 500.
+
+71. Before 2030 there will be a stable coin that is not tethered to one specific currency, but to a basket of assets. It may predominantly be backed by USD, but also may include EUR, gold, and other assets to avoid reliance on any one currency.
+
+72. Before 2035 there will be over one trillion US$ worth of stable coins in circulation. There are currently ~2.5 billion US$ worth.
+
+73. Before 2022 USDC will be in greater circulation than any other stable coin. It currently trails Tether and TrueUSD.
+
+74. Within 14 days of Coinbase Pro enabling full trading on DAI, the APR of supplying DAI on Compound Finance will be halved. It is currently at 4.80%.
+
+75. China is currently projected to pass the U.S. in GDP before 2030. I predict this will not happen before 2050.
+
+76. Before February 1, 2019, Bitcoin will at one point trade below $3632, a 10% drop in value. BTC is currently trading at $4,031.13. This price drop will be caused by the fall out from the Ethereum Classic attack as more question the security of other blockchains. E.g. A large portion of Bitcoin is controlled by a small group of mining pools.
+
+77. A 51% attack is currently being carried out against Ethereum Classic. ETC is currently trading at $5.05. Before February 1, 2019, ETC will at one point have a market price below $2.50. The goal of a blockchain is to maintain consensus. Once that’s gone, the value is gone.
+
+78. Before 2030 Tesla will be worth $100 billion as an independent company.
+
+79. Before 2030 Twitter will allow users to transact in at least one cryptocurrency.
+
+80. Before 2030 Square or Twitter will have integration with a cryptocurrency besides Bitcoin.
+
+81. Before 2030 Cloudflare will be valued at over $20 billion. This equates to an ~18% growth rate every year.
+
+82. Before 2030 Apple will be called to account by the United States government for their willingness to cooperate with the Chinese government.
+
+83. Before 2024 Apple will support Rich Communication Services (RCS) in the Messages app on iOS.
+
+84. Before 2030 Amazon.com, Inc. will offer a courier service similar to UPS and FedEx for consumers to ship their own packages to arbitrary locations.
+
+85. Boris Johnson campaigned on making a trade deal with the EU before the end of 2020. The UK will not make a trade deal with the EU before the end of 2020.
+
+86. Through 2020 Iran will continue to allow the International Atomic Energy Agency (IAEA) regular access to all Iranian nuclear facilities as outlined in the Joint Comprehensive Plan of Action (JCPOA).
+
+87. There will be no confirmed US casualties in Iran's attacks on the Al-Asad and Erbil military bases in Iraq.
+
+88. In 2020 the United States will not engage in military conflict on Iranian soil or in Iranian airspace.
+
+89. Before 2030 a financial services company in the United States with >$1 trillion in assets under management will offer consumers a financial instrument giving them broad exposure to the cryptocurrency market.
+
+90. The S&P 500 index will reach 151,528.79 before 2070.
